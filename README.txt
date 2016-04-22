@@ -1,0 +1,1 @@
+Plik informuje o przeznaczeniu projektu.
